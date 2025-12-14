@@ -15,3 +15,4 @@ module "petname" {
   # Optional inputs
   word_count = 4
 }
+```
